@@ -6,7 +6,7 @@
     "netif_num": "2",
     "mac1": "0011327B0EDF",
     "mac2": "0011327B0EE0",
-    "DiskIdxMap"： "000204",
+    "DiskIdxMap":"000204",
     "SataPortMap": "222",
     "SasIdxMap": "0"
   },
